@@ -5,7 +5,10 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/eldbyan0/free-tech-resources?style=social)](https://github.com/eldbyan0/free-tech-resources)
+[![Stars](https://img.shields.io/github/stars/eldbryan0/free-tech-resources?style=social)](https://github.com/eldbryan0/free-tech-resources)
+![Last Commit](https://img.shields.io/github/last-commit/eldbryan0/free-tech-resources)
+![Contributors](https://img.shields.io/github/contributors/eldbryan0/free-tech-resources)
+![Issues](https://img.shields.io/github/issues/eldbryan0/free-tech-resources)
 
 ---
 
@@ -17,6 +20,20 @@ There are thousands of resources online — but finding the **good, free ones** 
 - ✅ **Beginner-friendly** where noted
 - ✅ **Actively maintained or timeless**
 - ✅ **Community-vetted**
+
+---
+
+## 🧭 How to Use This List
+
+| Goal | Where to start |
+|---|---|
+| Complete beginner, never coded | [Start Here](#-start-here-absolute-beginners) |
+| Want a web dev job in 6 months | [The Odin Project](#-web-development) |
+| Interested in AI and machine learning | [AI & Machine Learning](#-ai--machine-learning) |
+| Want to design apps and websites | [UI/UX Design](#-uiux-design) |
+| Need to learn SQL for a job | [Databases & SQL](#-databases--sql) |
+| Preparing for coding interviews | [Practice & Challenges](#-practice--challenges) |
+| Looking for a remote tech job | [Career & Jobs](#-career--jobs) |
 
 ---
 
@@ -35,11 +52,16 @@ There are thousands of resources online — but finding the **good, free ones** 
 - [🛠️ Developer Tools & Git](#-developer-tools--git)
 - [📱 Mobile Development](#-mobile-development)
 - [☁️ Cloud & DevOps](#-cloud--devops)
+- [🔐 Cybersecurity & Ethical Hacking](#-cybersecurity--ethical-hacking)
+- [🎮 Game Development](#-game-development)
+- [⛓️ Blockchain & Web3](#-blockchain--web3)
+- [🖥️ Computer Science Theory](#-computer-science-theory)
 - [🎓 Full Courses & Platforms](#-full-courses--platforms)
 - [📺 YouTube Channels](#-youtube-channels)
 - [📖 Free Books & Documentation](#-free-books--documentation)
 - [🏆 Practice & Challenges](#-practice--challenges)
 - [💼 Career & Jobs](#-career--jobs)
+- [💰 Freelancing & Making Money with Tech](#-freelancing--making-money-with-tech)
 - [🌍 Communities](#-communities)
 
 ---
@@ -126,7 +148,6 @@ There are thousands of resources online — but finding the **good, free ones** 
 |---|---|---|
 | [Figma (Free Plan)](https://www.figma.com/) | Industry-standard design tool, free tier | Beginner |
 | [Google UX Design Certificate](https://www.coursera.org/professional-certificates/google-ux-design) | Audit for free on Coursera | Beginner |
-| [Shift Nudge](https://shiftnudge.com/) | UI design fundamentals | Beginner |
 | [Laws of UX](https://lawsofux.com/) | Core UX principles explained simply | Beginner |
 | [Refactoring UI](https://www.refactoringui.com/) | Design tips for developers | Beginner–Intermediate |
 | [Dribbble](https://dribbble.com/) | Inspiration and design community | All levels |
@@ -195,9 +216,60 @@ There are thousands of resources online — but finding the **good, free ones** 
 
 ---
 
-## 🎓 Full Courses & Platforms
+## 🔐 Cybersecurity & Ethical Hacking
 
-*Platforms with large free catalogs.*
+| Resource | Description | Level |
+|---|---|---|
+| [TryHackMe](https://tryhackme.com/) | Learn cybersecurity through guided, browser-based labs | Beginner |
+| [Hack The Box](https://www.hackthebox.com/) | Real-world hacking challenges and labs | Intermediate |
+| [OverTheWire](https://overthewire.org/wargames/) | Wargames to learn security concepts through play | Beginner |
+| [OWASP](https://owasp.org/) | The definitive resource on web application security | Intermediate |
+| [Cybrary](https://www.cybrary.it/) | Free cybersecurity courses and certification prep | Beginner |
+| [picoCTF](https://picoctf.org/) | Beginner-friendly cybersecurity competition by Carnegie Mellon | Beginner |
+| [CS50 Cybersecurity](https://cs50.harvard.edu/cybersecurity/) | Harvard's free intro to cybersecurity | Beginner |
+
+---
+
+## 🎮 Game Development
+
+| Resource | Description | Level |
+|---|---|---|
+| [Unity Learn](https://learn.unity.com/) | Official free Unity tutorials — industry standard engine | Beginner |
+| [Godot Documentation](https://docs.godotengine.org/) | Free, open-source game engine with excellent docs | Beginner |
+| [CS50G by Harvard](https://cs50.harvard.edu/games/) | Harvard's free game development course | Beginner–Intermediate |
+| [GDQuest](https://www.gdquest.com/) | Free Godot tutorials and open-source projects | Beginner |
+| [Game Maker's Toolkit](https://www.youtube.com/@GMTK) | Game design theory — excellent YouTube channel | All levels |
+| [Kenney Assets](https://kenney.nl/) | Free game assets — sprites, sounds, 3D models | All levels |
+| [itch.io](https://itch.io/) | Publish and discover indie games — great for portfolio | All levels |
+
+---
+
+## ⛓️ Blockchain & Web3
+
+| Resource | Description | Level |
+|---|---|---|
+| [CryptoZombies](https://cryptozombies.io/) | Learn Solidity by building a zombie game | Beginner |
+| [Ethereum Developer Docs](https://ethereum.org/en/developers/) | Official Ethereum development documentation | Intermediate |
+| [Buildspace](https://buildspace.so/) | Project-based Web3 courses, many free | Beginner |
+| [Alchemy University](https://university.alchemy.com/) | Free blockchain developer bootcamp | Beginner–Intermediate |
+| [Patrick Collins - Solidity Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ) | 32-hour free Solidity course on YouTube | Beginner |
+
+---
+
+## 🖥️ Computer Science Theory
+
+| Resource | Description | Level |
+|---|---|---|
+| [MIT 6.006 Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) | MIT's Introduction to Algorithms — free lecture videos | Intermediate |
+| [Neso Academy](https://www.youtube.com/@nesoacademy) | CS theory, networking, digital electronics on YouTube | Beginner–Intermediate |
+| [Computerphile](https://www.youtube.com/@Computerphile) | Computer science concepts explained engagingly | All levels |
+| [Khan Academy - CS](https://www.khanacademy.org/computing/computer-science) | Algorithms and information theory for beginners | Beginner |
+| [Big-O Cheat Sheet](https://www.bigocheatsheet.com/) | Algorithm complexity reference | Intermediate |
+| [Visualgo](https://visualgo.net/) | Visualise data structures and algorithms in action | Beginner–Intermediate |
+
+---
+
+## 🎓 Full Courses & Platforms
 
 | Platform | What's Free | Best For |
 |---|---|---|
@@ -215,8 +287,6 @@ There are thousands of resources online — but finding the **good, free ones** 
 
 ## 📺 YouTube Channels
 
-*The best free tech education channels.*
-
 | Channel | Specialty |
 |---|---|
 | [freeCodeCamp](https://www.youtube.com/@freecodecamp) | Full courses — everything |
@@ -229,7 +299,6 @@ There are thousands of resources online — but finding the **good, free ones** 
 | [Corey Schafer](https://www.youtube.com/@coreyms) | Python & web frameworks |
 | [Kevin Powell](https://www.youtube.com/@KevinPowell) | CSS mastery |
 | [NetworkChuck](https://www.youtube.com/@NetworkChuck) | Networking, Linux, cloud |
-| [Fireship](https://www.youtube.com/@Fireship) | 100-second concept explainers |
 | [CS50](https://www.youtube.com/@cs50) | Harvard's CS lectures |
 
 ---
@@ -241,19 +310,15 @@ There are thousands of resources online — but finding the **good, free ones** 
 | [Eloquent JavaScript](https://eloquentjavascript.net/) | JavaScript |
 | [Automate the Boring Stuff](https://automatetheboringstuff.com/) | Python |
 | [Pro Git](https://git-scm.com/book/en/v2) | Git |
-| [The Pragmatic Programmer](https://pragprog.com/) | Software craftsmanship |
 | [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) | Deep JavaScript |
 | [Dive Into Deep Learning](https://d2l.ai/) | Deep Learning |
 | [The Linux Command Line](https://linuxcommand.org/tlcl.php) | Linux |
-| [Structure and Interpretation of Computer Programs](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html) | CS Fundamentals |
 | [MDN Web Docs](https://developer.mozilla.org/) | HTML, CSS, JavaScript |
 | [DevDocs.io](https://devdocs.io/) | All documentation in one place |
 
 ---
 
 ## 🏆 Practice & Challenges
-
-*Learn by doing.*
 
 | Platform | Best For |
 |---|---|
@@ -280,15 +345,25 @@ There are thousands of resources online — but finding the **good, free ones** 
 | [Hashnode](https://hashnode.com/) | Developer blogging platform |
 | [levels.fyi](https://www.levels.fyi/) | Tech salary data by company/role |
 | [Tech Interview Handbook](https://www.techinterviewhandbook.org/) | Free interview prep guide |
-| [Blind 75 LeetCode](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) | Must-know coding interview questions |
-| [Nomad List](https://nomadlist.com/) | Remote job opportunities |
 | [Remote OK](https://remoteok.com/) | Remote tech jobs |
+| [Nomad List](https://nomadlist.com/) | Remote job opportunities |
+
+---
+
+## 💰 Freelancing & Making Money with Tech
+
+| Resource | Description | Level |
+|---|---|---|
+| [Upwork](https://www.upwork.com/) | Largest freelance marketplace for tech skills | All levels |
+| [Fiverr](https://www.fiverr.com/) | Sell services — good for beginners | Beginner |
+| [Toptal](https://www.toptal.com/) | Elite freelance network for experienced developers | Advanced |
+| [freeCodeCamp - How to Freelance](https://www.freecodecamp.org/news/how-to-start-freelancing/) | Free guide on getting your first client | Beginner |
+| [Indie Hackers](https://www.indiehackers.com/) | Community of developers building profitable side projects | All levels |
+| [Hacker News - Who's Hiring](https://news.ycombinator.com/ask) | Monthly thread with remote and freelance opportunities | All levels |
 
 ---
 
 ## 🌍 Communities
-
-*Where developers learn, share, and grow together.*
 
 | Community | Platform |
 |---|---|
@@ -298,8 +373,7 @@ There are thousands of resources online — but finding the **good, free ones** 
 | [r/learnprogramming](https://www.reddit.com/r/learnprogramming/) | Reddit — beginner-friendly |
 | [r/webdev](https://www.reddit.com/r/webdev/) | Reddit — web development |
 | [Stack Overflow](https://stackoverflow.com/) | Q&A for all coding questions |
-| [GitHub Discussions](https://github.com/) | Per-project communities |
-| [Discord - Reactiflux](https://www.reactiflux.com/) | React community |
+| [Reactiflux Discord](https://www.reactiflux.com/) | React community |
 | [Hacker News](https://news.ycombinator.com/) | Tech news + discussion |
 
 ---
